@@ -1,1 +1,2 @@
-# NodyWPF
+# LANE - Language Agnostic Node Editor
+
