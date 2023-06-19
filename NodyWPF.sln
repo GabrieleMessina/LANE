@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodyWPF", "NodyWPF\NodyWPF.csproj", "{80EB8D05-63EF-40DA-BC51-A2D24BB31C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80EB8D05-63EF-40DA-BC51-A2D24BB31C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EB8D05-63EF-40DA-BC51-A2D24BB31C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EB8D05-63EF-40DA-BC51-A2D24BB31C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EB8D05-63EF-40DA-BC51-A2D24BB31C12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {877F1DFA-171C-47F9-9B0C-9121B88CE04F}
+	EndGlobalSection
+EndGlobal
